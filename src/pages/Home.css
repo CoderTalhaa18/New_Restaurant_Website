@@ -1,0 +1,32 @@
+.home {
+  width: 100%;
+  height: 90vh;
+}
+.header-container {
+  display: flex;
+  flex-direction: column;
+  padding: 220px 100px;
+}
+.header-container h1 {
+  font-size: 90px;
+}
+.header-container p {
+  font-size: 30px;
+  padding-top: 10px;
+  color: red;
+}
+.header-container button {
+  border: none;
+  width: 150px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-top: 30px;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+.g{
+  color: white;
+  height: 20vh;
+}
